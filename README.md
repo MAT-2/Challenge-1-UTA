@@ -26,3 +26,7 @@ Refer to LICENSE inside repository.
 w3Schools: https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## Screenshots
+![image](https://github.com/MAT-2/Challenge-1-UTA/assets/98721159/88e16b88-f881-41cc-bdcf-e39076057387)
+
+![image](https://github.com/MAT-2/Challenge-1-UTA/assets/98721159/8525a931-5f15-4909-8a7a-f873f19a2e17)
+
